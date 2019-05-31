@@ -1,7 +1,7 @@
 # FlutterUIKit
 An Awesome Collection of UI built with Flutter.
 
-|<img src = "https://user-images.githubusercontent.com/21126965/58710925-0d8e0b00-83db-11e9-920b-d19a832ec671.png">|
+<img src = "https://user-images.githubusercontent.com/21126965/58710925-0d8e0b00-83db-11e9-920b-d19a832ec671.png">
 
 ## Getting Started
 
